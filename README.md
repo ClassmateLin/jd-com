@@ -1,0 +1,3 @@
+# jd-com
+
+Common library.
